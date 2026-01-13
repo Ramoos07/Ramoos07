@@ -20,7 +20,7 @@
   <img align="right" alt="Cauã-rm" height="200" width="200" src=https://i.pinimg.com/originals/11/21/29/112129333f105563a62e1ad892705d08.gif>
 
 <div align="center">
-    <br> <a href="https://instagram.com/raamos07_" target="_blank">
+    <br><br> <a href="https://instagram.com/raamos07_" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a> 
     <a href="https://discord.com/users/974611173410484224" target="_blank">
