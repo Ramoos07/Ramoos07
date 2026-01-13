@@ -11,7 +11,7 @@
   <img align="center" alt="Cauã-HTML" height="30" width="125" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cauã-Nodejs" height="30" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> 
   <img align="center" alt="Cauã-Trello" height="30" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
-  <img align="center" alt="Cauã-React" height="30" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="Cauã-React" height="30" width="105" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div>
 
 ---
