@@ -1,9 +1,18 @@
-  Olá! Sou o Cauã Ramos, prazer em te conhecer. 
+  Olá! Sou o Cauã Ramos, prazer em te conhecer! / Hello! i am Cauã Ramos, nice to meet you!
 ---
+(PT)
 - 💻 Hoje atuo como auxiliar administrativo (jovem aprendiz)
 - 🏫 Graduando em Engenharia de Software
 - 📖 No momento estou estudando Node.js, Java, Phyton e React
 - 💭 Desejo atuar como desenvolvedor Full-Stack, administrador de Banco de Dados e engenheiro de DevOps
+
+(EN)
+- 💻 Today I work as an administrative assistant (young apprentice)
+- 🏫 Graduating in Software Engineering
+- 📖 Currently studying Node.js, Java, Python, and React
+- 💭 I wish to work as a Full-Stack developer, Database administrator, and DevOps engineer
+
+
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
