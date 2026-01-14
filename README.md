@@ -3,7 +3,7 @@
 (PT)
 - 💻 Hoje atuo como auxiliar administrativo (jovem aprendiz)
 - 🏫 Graduando em Engenharia de Software
-- 📖 No momento estou estudando Node.js, Java, Phyton e React
+- 📖 No momento estou estudando Node.js, Java, Python e React
 - 💭 Desejo atuar como desenvolvedor Full-Stack, administrador de Banco de Dados e engenheiro de DevOps
 
 (EN)
