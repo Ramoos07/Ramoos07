@@ -15,20 +15,20 @@
 
 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="20" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Python" height="20" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="VS" height="20" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Cauã-HTML" height="20" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cauã-Nodejs" height="20" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> 
-  <img align="center" alt="Cauã-Trello" height="20" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
-  <img align="center" alt="Cauã-React" height="20" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="Java" height="15" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Python" height="15" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="VS" hheight="15" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Cauã-HTML" height="15" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cauã-Nodejs" height="15" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> 
+  <img align="center" alt="Cauã-Trello" height="15" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
+  <img align="center" alt="Cauã-React" height="15" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div>
 
 ---
 
 <div>   
-  <img align="left" alt="Cauã-rm" height="180" width="180" src=https://i.pinimg.com/originals/11/21/29/112129333f105563a62e1ad892705d08.gif>
-  <img align="right" alt="Cauã-rm" height="180" width="180" src=https://i.pinimg.com/originals/11/21/29/112129333f105563a62e1ad892705d08.gif>
+  <img align="left" alt="Cauã-rm" height="200" width="200" src=https://i.pinimg.com/originals/11/21/29/112129333f105563a62e1ad892705d08.gif>
+  <img align="right" alt="Cauã-rm" height="200" width="200" src=https://i.pinimg.com/originals/11/21/29/112129333f105563a62e1ad892705d08.gif>
 
 <div align="center">
     <br><br> <a href="https://instagram.com/raamos07_" target="_blank">
